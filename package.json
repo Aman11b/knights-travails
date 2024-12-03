@@ -1,0 +1,13 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "Knight's path finding on a chessboard",
+  "main": "knights.js",
+  "scripts": {
+    "start": "node knights.js",
+    "test": "node knights.js"
+  },
+  "keywords": ["chess", "algorithm", "pathfinding"],
+  "author": "Your Name",
+  "license": "MIT"
+}
